@@ -1,3 +1,7 @@
+*{
+  border: solid 1px #000;
+  
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +9,102 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+ 
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.pagPrin{
+  
+  width: 100%;
+  height: 2000px;
+  
+  
+}
+.slider{
+  width: 100%;
+  height: 50px;
+}
+.header{
+  
+  width: 100%;
+  height: 80px;
+  
+  
+  
+}
+
+.header01{
+  
+  width: 45%;
+  height: 80px;
+  float: left;
+}
+
+.header02{
+  
+  width: 45%;
+  height: 80px;
+  float: right;
+  
+  vertical-align: middle;
+  
+  
+  
+}
+
+.portada{
+  width: 100%;
+  height: 500px;
+  
+}
+
+.portada01{
+  width: 50%;
+  height: 500px;
+  
+  
+}
+
+.idin{
+  font-size: 38px;
+  text-align: center;
+  
+  
+}
+
+.contenedorP{
+  width: 60%;
+  height: 400px;
+  padding: 50px 134px;
+}
+
+.botonP{
+  width: 100%;
+  padding: 15px 0;
+  
+}
+
+.boton01{
+  width: 48%;
+  float: left;
+  text-align: right;
+}
+.boton02{
+  width: 48%;
+  text-align: left;
+  float: right;
+}
+
+
+  
+
+
+
+
+
+
+
+
